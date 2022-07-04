@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure**
 
-- 👨‍💻 All of my projects are available at [https://mosasaleh.netlify.app/](https://mosasaleh.netlify.app/)
+- 👨‍💻 You can now more thung about me by <a href="https://mosasaleh.netlify.app/">Portfolio<a>
 
 - 💬 Ask me about **react , redux , node.js .**
 
